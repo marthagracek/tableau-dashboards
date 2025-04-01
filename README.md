@@ -34,7 +34,7 @@
 ---
 # Tableau Story- Charlotte Mecklenberg County community health
 
-[![Tableau](https://img.shields.io/badge/🚀_Interactive_Story-Tableau_Public-E97627?logo=tableau&style=for-the-badge)]   ### (https://public.tableau.com/app/profile/martha.grace.kommuguri/viz/minicompetition-final/FinalStory?publish=yes)
+[![Tableau](https://img.shields.io/badge/🚀_Interactive_Story-Tableau_Public-E97627?logo=tableau&style=for-the-badge)](https://public.tableau.com/app/profile/martha.grace.kommuguri/viz/minicompetition-final/FinalStory?publish=yes)
 [![GitHub](https://img.shields.io/badge/📦_Repository-GitHub-181717?logo=github)]      (https://github.com/yourusername/tableau-ai-workforce-story)
 
 [![Story Thumbnail](https://github.com/yourusername/tableau-ai-workflow-story/blob/main/visuals/story_thumbnail.png?raw=true)](https://public.tableau.com/app/profile/martha.grace.kommuguri/viz/minicompetition-final/FinalStory?publish=yes)
