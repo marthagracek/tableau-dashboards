@@ -57,3 +57,6 @@ Interactive Tableau story analyzing key urban development factors through four c
 
 ### 🏠 Housing Affordability & Transportation  
 -Examines housing costs, commute patterns, and public transit availability.
+
+ ###  Employment Dynamics & Infrastructure
+- Tracks job market trends, workforce distribution, and infrastructure development.
