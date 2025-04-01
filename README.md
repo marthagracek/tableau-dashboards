@@ -34,9 +34,30 @@
 ---
 # Tableau Story- Charlotte Mecklenberg County community health
 
-[![Tableau](https://img.shields.io/badge/🚀_Interactive_Story-Tableau_Public-E97627?logo=tableau&style=for-the-badge)](https://public.tableau.com/app/profile/martha.grace.kommuguri/viz/minicompetition-final/FinalStory?publish=yes)
-[![GitHub](https://img.shields.io/badge/📦_Repository-GitHub-181717?logo=github)](https://github.com/yourusername/tableau-ai-workforce-story)
+### [![Tableau](https://img.shields.io/badge/🚀_Interactive_Story-Tableau_Public-E97627?logo=tableau&style=for-the-badge)]   ### (https://public.tableau.com/app/profile/martha.grace.kommuguri/viz/minicompetition-final/FinalStory?publish=yes)
+### [![GitHub](https://img.shields.io/badge/📦_Repository-GitHub-181717?logo=github)]      (https://github.com/yourusername/tableau-ai-workforce-story)
 
-[![Story Thumbnail](https://github.com/yourusername/tableau-ai-workflow-story/blob/main/visuals/story_thumbnail.png?raw=true)](https://public.tableau.com/app/profile/martha.grace.kommuguri/viz/minicompetition-final/FinalStory?publish=yes)
-*Click image to experience the interactive story*
+### [![Story Thumbnail](https://github.com/yourusername/tableau-ai-workflow-story/blob/main/visuals/story_thumbnail.png?raw=true)](https://public.tableau.com/app/profile/martha.grace.kommuguri/viz/minicompetition-final/FinalStory?publish=yes)
+### *Click image to experience the interactive story*
 
+# 🏙️ Urban Community Analytics Dashboard
+
+[![Tableau Public](https://img.shields.io/badge/📊_Interactive_Dashboards-FF6B00?logo=tableau&style=for-the-badge)](https://public.tableau.com/app/profile/your.profile/viz/YourStoryName/StoryTitle)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/yourusername/repo?color=blue)](https://github.com/yourusername/repo)
+
+## 📌 Overview
+Interactive Tableau story analyzing key urban development factors through four comprehensive dashboards:
+
+[![Dashboard Preview](preview_image.png)](https://public.tableau.com/app/profile/your.profile/viz/YourStoryName/StoryTitle)
+*Click image to view interactive story*
+
+## 🔍 Dashboard Highlights
+
+### 🚨 Safety & Public Health
+- Crime rate heatmaps by neighborhood
+- Property crime rate trends
+- Average age of death among the public  
+
+
+### 🏠 Housing Affordability & Transportation  
+-Examines housing costs, commute patterns, and public transit availability.
